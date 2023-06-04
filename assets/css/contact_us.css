@@ -5,7 +5,10 @@
     margin: 0;
     color: #D69B0B;
   }
-  
+  h2{
+    color: black;
+
+  }
   h1 {
     margin-top: 4.5em;
     letter-spacing: 3px;

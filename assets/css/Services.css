@@ -1,6 +1,4 @@
-span {
-  font-weight: bold;
-}
+
 
 * {
   font-family: Lato, sans-serif;
@@ -10,6 +8,10 @@ span {
   color: #D69B0B;
 }
 
+
+footer p{
+  font-size: 16px;
+}
 
 p,
 ol,
@@ -30,7 +32,7 @@ ol,
 
 .text {
   border: 2px solid #D69B0B;
-  gap: 8rem;
+  gap: 3.5rem;
   display: flex;
   margin-top: 5em;
 }
@@ -38,7 +40,10 @@ ol,
 h1 {
   color: black;
   margin-top: 2.5em;
-  letter-spacing: 3px;
+  font-family: Lato;
+  letter-spacing: 8px;
+  
+  font-size: 3em;
  
 }
 
